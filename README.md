@@ -12,20 +12,17 @@ Session 2c: CS224n Advanced Word Vector Representations
 Session 3: Stat385 Lecture 3 Readings – Harmonic Analysis of CNNs
 
 -------------------------
-
 What we would cover this week?
 
 1. TBD
 2. TBD
 
 -------------------------
-
 Speakers:
 
 1. TBD
 
 ------------------------------------
-
 Prep Resources:
 
 ** Setup GPU (https://github.com/aisat-hyd/week7/blob/master/README.md#setup_gpu)
@@ -34,7 +31,7 @@ Prep Resources:
 - Part 2 Lessons: http://course.fast.ai/lessons/lesson2.html
 
 2. Other Resources:
-https://www.youtube.com/watch?v=lfHX2hHRMVQ
-http://cs231n.github.io/
-http://web.stanford.edu/class/cs224n/index.html
-https://stats385.github.io/readings (In this lecture 3)
+- https://www.youtube.com/watch?v=lfHX2hHRMVQ
+- http://cs231n.github.io/
+- http://web.stanford.edu/class/cs224n/index.html
+- https://stats385.github.io/readings (In this lecture 3)
