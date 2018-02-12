@@ -3,7 +3,7 @@ AI-Sat week-2
 --------------------------
 Preparation for week 8 of AI Saturday Hyderabad(17/2/2018)
 
-Defined Syallabus:
+Defined Syllabus:
 
 - Session 1: Fast.ai Lesson 2
 - Session 2a: UCL/Deep Mind Reinforcement Learning Lecture 2 – Markov Decision Processes
