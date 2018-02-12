@@ -5,11 +5,11 @@ Preparation for week 8 of AI Saturday Hyderabad(17/2/2018)
 
 Defined Syallabus:
 
-Session 1: Fast.ai Lesson 2
-Session 2a: UCL/Deep Mind Reinforcement Learning Lecture 2 – Markov Decision Processes
-Session 2b: CS231n Loss Functions and Optimization
-Session 2c: CS224n Advanced Word Vector Representations
-Session 3: Stat385 Lecture 3 Readings – Harmonic Analysis of CNNs
+- Session 1: Fast.ai Lesson 2
+- Session 2a: UCL/Deep Mind Reinforcement Learning Lecture 2 – Markov Decision Processes
+- Session 2b: CS231n Loss Functions and Optimization
+- Session 2c: CS224n Advanced Word Vector Representations
+- Session 3: Stat385 Lecture 3 Readings – Harmonic Analysis of CNNs
 
 -------------------------
 What we would cover this week?
